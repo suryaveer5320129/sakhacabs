@@ -56,7 +56,7 @@ sudo ln -s /opt/sakhacabs/bookingweb /var/www/html/bookingweb
 ## now, create the symbolic link of the file sakhadispatcher:
 
    ```
-   sudo ln -s /opt/sakhacabs/bookingweb /var/www/html/sakhadispatcher
+   sudo ln -s /opt/sakhacabs/sakhadispatcher /var/www/html/sakhadispatcher
    ```
       
 ## Now deploy the ip address:
